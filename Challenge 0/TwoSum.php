@@ -1,5 +1,5 @@
 <?php
-class LongestSubstringWithoutRepeatingCharacters {
+class Solution {
 
     /**
      * @param Integer[] $nums
